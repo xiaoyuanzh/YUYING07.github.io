@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Jin, Junru
+AU  - Yu, Yingying
+AU  - Wang, Ruheng
+AU  - Zeng, Xin
+AU  - Pang, Chao
+AU  - Jiang, Yi
+AU  - Li, Zhongshen
+AU  - Dai, Yutong
+AU  - Su, Ran
+AU  - Zou, Quan
+AU  - Nakai, Kenta
+AU  - Wei, Leyi
+PY  - 2022
+DA  - 2022/10/17
+TI  - iDNA-ABF: multi-scale deep biological language learning model for the interpretable prediction of DNA methylations
+JO  - Genome Biology
+SP  - 219
+VL  - 23
+IS  - 1
+AB  - In this study, we propose iDNA-ABF, a multi-scale deep biological language learning model that enables the interpretable prediction of DNA methylations based on genomic sequences only. Benchmarking comparisons show that our iDNA-ABF outperforms state-of-the-art methods for different methylation predictions. Importantly, we show the power of deep language learning in capturing both sequential and functional semantics information from background genomes. Moreover, by integrating the interpretable analysis mechanism, we well explain what the model learns, helping us build the mapping from the discovery of important sequential determinants to the in-depth analysis of their biological functions.
+SN  - 1474-760X
+UR  - https://doi.org/10.1186/s13059-022-02780-1
+DO  - 10.1186/s13059-022-02780-1
+ID  - Jin2022
+ER  - 
