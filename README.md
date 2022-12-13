@@ -1,4 +1,4 @@
-Yingying Yu,  a senior in SDU.
+Yingying Yu,  Phd Student at cityu.
 
 Homepage: https://yuying07.github.io/
 
